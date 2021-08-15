@@ -1,0 +1,7 @@
+.vs
+bin/
+obj/
+KaomojiSelector/bin
+KaomojiSelector/obj
+KaomojiSelector\KaomojiSelector
+KaomojiSelector\KaomojiSelector.user
